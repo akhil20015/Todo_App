@@ -14,7 +14,8 @@ input[type=text]:focus{
     background: rgba(0,0,0,0.2);
 }
 
-.todos{
+.todos li{
+    color: #fff;
     background: #423a6f;
 }
 
