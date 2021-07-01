@@ -1,6 +1,5 @@
 
-##
-This is a simple Todo app built using the following:-
+### This is a simple Todo app built using the following:-
 
 <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
 
@@ -10,18 +9,18 @@ This is a simple Todo app built using the following:-
 
 
 # This is the layout of the page :boom: 
+<img src="imgs/Layout.png" alt="layout 1"/>
 
-<img src="imgs/layout1.png" alt="layout 1"/>
-<img src="imgs/layout2.png" alt="layout 2"/>
+## After adding task :page_facing_up: 
+<img src="imgs/task_added.png" alt="task_added"/>
 
-## The result after submit is clicked :raised_hands: 
+## Searching for task :mag:
+<img src="imgs/search_task.png" alt="search"/>
 
-
-<img src="imgs/result.png" alt="result"/>
+## After deletion:- 
+<img src="imgs/deleted_task.png" alt="search"/>
  
 
- 
-## Will be reworking on the UI part and will add extra few features soon.......
-
-<img src='imgs/naruto.gif' alt='ninja-run'/>
+# UI changes??
+<img src='imgs/johnwick.gif' alt='ninja-run'/>
 
